@@ -1,9 +1,7 @@
-import {} from  './../reducers/index'
+// import {} from  './../reducers/index'
 let redux = require('redux')
 
-import thunk from 'redux-thunk'
-
- export let configure = () => { 
+export let configure = () => { 
 /*------------------------------------------------------*/
 	/*Combine reducers*/
 	let reducer = redux.combineReducers({
