@@ -5,11 +5,8 @@
 │   ├── app.js
 │   ├── components
 │   │   └── Main.js
-│   ├── oldReducer.js
 │   ├── reducers
 │   │   └── index.js
-│   ├── redux-example.js
-│   ├── redux-todo-example.js
 │   ├── store
 │   │   └── configureStore.js
 │   ├── styles
@@ -18,8 +15,9 @@
 │   │       ├── _core.scss
 │   │       └── _variables.scss
 │   └── tests
-│       └── test_index.js
-├── appTree.txt
+│       └── components
+│           └── test_index.js
+├── appTree.js
 ├── karma.conf.js
 ├── package.json
 ├── public
@@ -29,4 +27,4 @@
 ├── server.js
 └── webpack.config.js
 
-9 directories, 20 files
+10 directories, 17 files
