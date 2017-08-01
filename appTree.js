@@ -7,8 +7,8 @@
 │   │   └── Main.js
 │   ├── reducers
 │   │   └── index.js
-│   ├── store
-│   │   └── configureStore.js
+│   ├── router
+│   │   └── index.js
 │   ├── styles
 │   │   ├── app.scss
 │   │   └── base
