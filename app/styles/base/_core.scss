@@ -1,9 +1,9 @@
 /* Core variables and mixins */
-@import "variables";
 @import "../../node_modules/bootstrap/scss/mixins";
 
 /* Reset and dependencies */
-@import "../../node_modules/bootstrap/scss/normalize";
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
 @import "../../node_modules/bootstrap/scss/print";
 
 /* Core CSS */
